@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="task6_sum_of_it_parts"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;CMake Files\src\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Harry/Desktop/C++/task6_sum_of_it_parts/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Harry\Desktop\C++\task6_sum_of_it_parts\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Harry\Desktop\C++\task6_sum_of_it_parts\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Harry\Desktop\C++\task6_sum_of_it_parts\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Harry\Desktop\C++\task6_sum_of_it_parts\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="task6_sum_of_it_parts">
+				<Option output="C:/Users/Harry/Desktop/C++/task6_sum_of_it_parts/cmake-build-debug/task6_sum_of_it_parts.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Harry/Desktop/C++/task6_sum_of_it_parts/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Harry\Desktop\C++\task6_sum_of_it_parts\cmake-build-debug\Makefile VERBOSE=1 task6_sum_of_it_parts"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Harry\Desktop\C++\task6_sum_of_it_parts\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Harry\Desktop\C++\task6_sum_of_it_parts\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Harry\Desktop\C++\task6_sum_of_it_parts\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="task6_sum_of_it_parts/fast">
+				<Option output="C:/Users/Harry/Desktop/C++/task6_sum_of_it_parts/cmake-build-debug/task6_sum_of_it_parts.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Harry/Desktop/C++/task6_sum_of_it_parts/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Harry\Desktop\C++\task6_sum_of_it_parts\cmake-build-debug\Makefile VERBOSE=1 task6_sum_of_it_parts/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Harry\Desktop\C++\task6_sum_of_it_parts\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Harry\Desktop\C++\task6_sum_of_it_parts\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Harry\Desktop\C++\task6_sum_of_it_parts\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Harry/Desktop/C++/task6_sum_of_it_parts/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Harry\Desktop\C++\task6_sum_of_it_parts\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Harry\Desktop\C++\task6_sum_of_it_parts\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Harry\Desktop\C++\task6_sum_of_it_parts\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Harry\Desktop\C++\task6_sum_of_it_parts\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Harry/Desktop/C++/task6_sum_of_it_parts/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Harry\Desktop\C++\task6_sum_of_it_parts\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Harry\Desktop\C++\task6_sum_of_it_parts\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Harry\Desktop\C++\task6_sum_of_it_parts\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Harry\Desktop\C++\task6_sum_of_it_parts\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Harry/Desktop/C++/task6_sum_of_it_parts/src/main.cpp">
+			<Option target="task6_sum_of_it_parts"/>
+		</Unit>
+		<Unit filename="C:/Users/Harry/Desktop/C++/task6_sum_of_it_parts/src/parts.cpp">
+			<Option target="task6_sum_of_it_parts"/>
+		</Unit>
+		<Unit filename="C:/Users/Harry/Desktop/C++/task6_sum_of_it_parts/src/parts.h">
+			<Option target="task6_sum_of_it_parts"/>
+		</Unit>
+		<Unit filename="C:/Users/Harry/Desktop/C++/task6_sum_of_it_parts/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/Harry/Desktop/C++/task6_sum_of_it_parts/src/definitions.txt">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+		<Unit filename="C:/Users/Harry/Desktop/C++/task6_sum_of_it_parts/src/queries.txt">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
